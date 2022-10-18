@@ -12,6 +12,10 @@
 <li>[ ] program to demonstrate the fibonacci series </li> 
 <li>[ ] program to demonstrate multiplication two matrices </li>
 <li>[ ] Program to check a number in a range or not  </li>
+<li>[ ] Program to find get date </li>
+<li>[ ] Program to empty an array </li>
+<li>[ ] Program to get random item from an array </li>
+<li>[ ] Program to find ASCII value of character </li>
 
 </ul>
 
