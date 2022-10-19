@@ -1,3 +1,5 @@
+//program to get random items from an array
+
 function getRandomItem(arr) {
 
     // get random index value
